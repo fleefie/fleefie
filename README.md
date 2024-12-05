@@ -1,16 +1,16 @@
-## Hi there 👋
+Hey, you may call me Fleefie.
 
-<!--
-**fleefie/fleefie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer engineering student, too busy being at school or in a train to answer immediately. Mostly interested in embedded and systems programming.
 
-Here are some ideas to get you started:
+Languages:
+- 🔧 C
+- 🗃️ C++
+- 🦀 Rust
+- ☕ (Learning) Java and Scala
+- 🧙x86 and 🎮 GBZ80 Assembly
+- 💩 Web languages, unfortunately (JS, TS, PHP).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My three wishes in tech:
+- Normalize actually optimizing your code
+- Delete every "web technology", without exceptions. It's raw, pure HTML and CSS or nothing!
+- Make vim motions the standard
